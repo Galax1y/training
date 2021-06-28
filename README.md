@@ -1,1 +1,3 @@
 # training
+
+auto-explicativo
